@@ -1,6 +1,7 @@
 # Loan-Prediction-Based-on-Customer-Behavior
 Predict who possible Defaulters are for the Consumer Loans Product
 
+
 ## About the Dataset
 income            :	 Income of the user	int
 age	              :  Age of the user	int
@@ -17,5 +18,5 @@ state	            :  State of residence	string
 
 The risk_flag indicates whether there has been a default in the past or not.
 
-# Problem Statement :
+# Problem Statement 
 An organization wants to predict who possible defaulters are for the consumer loans product. They have data about historic customer behavior based on what they have observed. Hence when they acquire new customers they want to predict who is riskier and who is not.

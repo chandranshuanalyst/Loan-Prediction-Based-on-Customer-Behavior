@@ -1,6 +1,7 @@
 # Loan-Prediction-Based-on-Customer-Behavior
 Predict who possible Defaulters are for the Consumer Loans Product
 
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F847%2F1*f7m92eei7PE8gFyaCQnXMw.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fclassification-model-for-loan-default-risk-prediction-98c2cc7ef1bf&tbnid=SKJMROq-phhJQM&vet=12ahUKEwiMuZaM_Mz3AhUXzqACHTl9Di0QMygCegUIARC-AQ..i&docid=ArQ55bNFES-YOM&w=847&h=567&q=loan%20default%20prediction&ved=2ahUKEwiMuZaM_Mz3AhUXzqACHTl9Di0QMygCegUIARC-AQ/to/img.png)
 
 ## About the Dataset
 income            :	 Income of the user	int

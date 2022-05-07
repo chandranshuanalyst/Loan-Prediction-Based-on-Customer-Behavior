@@ -4,7 +4,7 @@ Predict who possible Defaulters are for the Consumer Loans Product
 ![0_lAkevA6upQBq-NCk](https://user-images.githubusercontent.com/91171166/167246492-acc99f97-2aff-41ec-baad-f925b3ab7c19.jpg)
 
 ## About the Dataset
-income            :	 Income of the user	int<br />
+*income            :	 Income of the user	int<br />
 age	              :  Age of the user	int<br />
 experience        :  Professional experience of the user in years	int<br />
 profession        :  Profession	string<br />

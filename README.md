@@ -1,7 +1,7 @@
 # Loan-Prediction-Based-on-Customer-Behavior
 Predict who possible Defaulters are for the Consumer Loans Product
 
-
+![0_lAkevA6upQBq-NCk](https://user-images.githubusercontent.com/91171166/167246492-acc99f97-2aff-41ec-baad-f925b3ab7c19.jpg)
 
 ## About the Dataset
 income            :	 Income of the user	int

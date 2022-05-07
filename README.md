@@ -21,3 +21,24 @@ The risk_flag indicates whether there has been a default in the past or not.
 
 # Problem Statement 
 An organization wants to predict who possible defaulters are for the consumer loans product. They have data about historic customer behavior based on what they have observed. Hence when they acquire new customers they want to predict who is riskier and who is not.
+
+# Roadmap
+
+### The project flow is as follows
+1) Checking for missing values and dulplicate values
+2) Univariate analysis and observing for patterns in the variables with respect to risk_factor
+3) Finding correlations ,if any, in the data
+4) Applying statistical tests (chi square and t test )
+5) Encoding the categorical variables and scaling them
+6) Appling train test split and using SMOTE to make data balanced
+7) Fitting different models and checking for best model
+
+# Conclusions
+
+We know that in the case of bank loans , 
+recall will reduce the number of false negatives (FN) i.e. the cases where there are chances of default/risk of loss 
+while
+precision will reduce the number of false positives (FP) i.e. the cases where there are chances of gain/profit
+So here there is trade off and depends n business stratigy.
+Here we use F1 score and accuracy as the mesaure of models.
+#### Best model : random forest(gini) has the best scores and is therefore the best model for predictions
